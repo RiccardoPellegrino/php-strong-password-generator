@@ -41,7 +41,7 @@ $_SESSION['psd'] = $casual_psd;
                         }
                         ?>
                     </div>
-                    <input type="text" name="psd" id="password">
+                    <input type="number" name="psd" id="password">
                     <div class="mt-3">
                         <button type="submit">Invia</button>
                         <button type="reset">Reset</button>
